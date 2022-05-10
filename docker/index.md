@@ -1,7 +1,3 @@
-<div style="position:fixed;top:20px;left:20px"><ul><li>1</li><li>2</li></ul></div>
-
-### Docker 门外排徊
-
 ### 卸载老版本的docker
 
 ```shell
@@ -91,7 +87,7 @@ sudo docker run hello-world
 
 #### 代码编写
 
-<span id="code">https://github.com/docker/getting-started/tree/master/app</span>
+<span id="code">[代码下载](https://github.com/docker/getting-started/tree/master/app)</span>
 
 #### 构建镜像
 
